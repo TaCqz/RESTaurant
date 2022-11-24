@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PBLGxYV9k9+6r334wjERYXxwi0zSsrq1U27nhF7Mwtx/eEpNB4i4riCnXub7D4GrZSlOh4U1n0QW0EYd6g5skw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jan-oliver.lehnen\\Schule\\LF7\\REST-API Beispiel\\RESTaurant\\RESTaurant\\RESTaurant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jan-oliver.lehnen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jan-oliver.lehnen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jan-oliver.lehnen\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\jan-oliver.lehnen\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\jan-oliver.lehnen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\jan-oliver.lehnen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
